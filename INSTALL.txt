@@ -25,4 +25,3 @@ you've found it run it with the --version option to make sure it is for Qt
 4.0 or greater).  Then rerun the config script with the --qmake4bin=BIN option,
 where BIN is the executable name of the proper qmake binary, or a path to the
 proper qmake binary.
-
